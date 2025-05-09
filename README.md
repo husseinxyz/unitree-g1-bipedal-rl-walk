@@ -27,7 +27,7 @@ This repository contains modified code from the official Unitree RL GYM environm
 
 We focus only on training the Unitree G1 and include some weights under `log/` to replicate benchmark. Installation and requirements remain the same.
 
-You can read a deep dive into RL for bipedal locomotion as well as code explanation and full literature review [here](https://https://github.com/husseinxyz/2025/05/06/bipedal/).
+You can read a deep dive into RL for bipedal locomotion as well as code explanation and full literature review [here](https://https://github.com/husseinxyz/2025/05/01/bipedal/).
 
 ## 📦 Installation and Configuration
 
